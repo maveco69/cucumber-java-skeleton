@@ -1,3 +1,18 @@
+# BDD / Java / Ctai
+Forked from https://github.com/cucumber/cucumber-java-skeleton.git
+
+## Problemas sugeridos:
+    Soma
+    Divisao
+    Multiplicação
+    Subtração
+    Inteiros x Flutuantes (Decimais)
+    Operações com mais de 2 números (ex: somar 1,2,4 = 7)
+    Exponencial
+    Fatorial
+    Raiz Quadrada
+
+
 # Cucumber-Java Skeleton
 
 ![](https://travis-ci.org/cucumber/cucumber-java-skeleton.svg)
@@ -13,11 +28,6 @@ There is a single feature file with one scenario. The scenario has three steps, 
 Git:
 
     git clone https://github.com/cucumber/cucumber-java-skeleton.git
-    cd cucumber-java-skeleton
-
-Subversion:
-
-    svn checkout https://github.com/cucumber/cucumber-java-skeleton/trunk cucumber-java-skeleton
     cd cucumber-java-skeleton
 
 Or simply [download a zip](https://github.com/cucumber/cucumber-java-skeleton/archive/master.zip) file.
